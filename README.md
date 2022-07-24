@@ -1,4 +1,4 @@
-# Library-Management-System-  using Java JDBC and SQLite, which mainly focuses on basic operations in a library like adding new student, new book, Issue/Return details, searching books and students and facility to borrow and return books.
+# Library-Management-System-  using Java JDBC and SQLite, which mainly focuses on basic operations in a library like adding new students, new books, Issue/Return details, searching books or students and facility to borrow and return books.
 
 ![Screenshot (25)](https://user-images.githubusercontent.com/102401268/180633204-27401c3e-4f56-410e-a196-e72fbae2190d.png)
 ![Screenshot (32)](https://user-images.githubusercontent.com/102401268/180633271-f6005176-09d3-4c42-8796-0e6614018bc9.png)
